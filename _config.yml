@@ -310,3 +310,5 @@ compress_html:
   ignore:
     envs: development
 
+_config-gallery.yml
+
