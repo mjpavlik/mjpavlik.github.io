@@ -269,7 +269,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll
   jekyll-feed
   jekyll-sitemap
   jekyll_picture_tag
