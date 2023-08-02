@@ -26,8 +26,4 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll_picture_tag'
 
-source "https://rubygems.org"
-gem "jekyll", "~> 3.9.0"
-gem "jekyll-picture-tag", "~> 0.3"
-
 end
