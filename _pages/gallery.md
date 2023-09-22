@@ -13,6 +13,6 @@ gallery:
 ---
 
 
-{% include /_includes/gallery.html gallery=page.gallery %}
+{% include /gallery.html gallery=page.gallery %}
 
 <!-- <link rel="stylesheet" href="/assets/css/gallery.css"> -->
