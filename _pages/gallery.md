@@ -1,6 +1,6 @@
 ---
 title: "Image Gallery"
-layout: default
+layout: gallery
 excerpt: "Your gallery description here."
 permalink: /gallery/
 gallery:
