@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Download pdf [here](cv.pdf)_
+_Download pdf [here](\files\cv.pdf)_
 
 Education & Affiliations
 ======
