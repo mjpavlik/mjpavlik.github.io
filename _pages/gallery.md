@@ -49,7 +49,7 @@ permalink: /gallery/
 
 <div class="grid">
   {% for image in page.static_files %}
-    {% if image.path contains 'gallery_images/' %}
+    {% if image.path contains 'images/gallery_images/' %}
       <div class="grid-item">
         <a href="{{ image.path }}" data-toggle="lightbox" data-gallery="gallery">
           <img src="{{ image.path }}" alt="{{ image.name | remove: '.png' | replace: '_', ' ' }}" />
