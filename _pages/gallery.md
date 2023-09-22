@@ -11,5 +11,4 @@ gallery:
     alt: "2019 Year In Review"
 ---
 
-{% include gallery caption="Your optional gallery caption here." %}
-
+{% include gallery.html gallery=page.gallery %}

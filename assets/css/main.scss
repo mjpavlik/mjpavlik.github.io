@@ -44,4 +44,14 @@
   width: 200px;
   margin-bottom: 10px;
 }
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid-item {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
 
