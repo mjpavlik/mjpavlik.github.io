@@ -1,17 +1,8 @@
 ---
 title: "Image Gallery"
-layout: gallery
-excerpt: "Your gallery description here."
+layout: default
 permalink: /gallery/
-gallery:
-  - url: /BelarusInfographic.png
-    image_path: /images/gallery_images/BelarusInfographic.png
-    alt: "Belarus Infographic"
-  - url: /2019YearInReviewImage.png
-    image_path: /images/gallery_images/2019YearInReviewImage.png
-    alt: "2019 Year In Review"
 ---
-
 
 <!-- Lightbox library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" integrity="sha512-+QZ4yJzJ6x7jzJzv5ZL5t9+J8zJf8Jzv5ZL5t9+J8zJf8Jzv5ZL5t9+J8zJf8Jzv5L5t9+J8zJf8Jzv5ZL5t9g==" crossorigin="anonymous" />
@@ -20,7 +11,41 @@ gallery:
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
 
 <!-- Gallery styles -->
-<link rel="stylesheet" href="/assets/css/gallery.css">
+<style>
+/* Lightbox styles */
+.lb-outerContainer {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  .lb-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .lb-nav a.lb-prev, .lb-nav a.lb-next {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Masonry styles */
+  .grid {
+    /* display: flex;
+    flex-wrap: wrap; */
+    margin: 0 auto;
+  }
+  
+  .grid-item {
+    margin-bottom: 20px;
+  }
+  
+  .grid-sizer {
+    width: 33.333%;
+  }
+
+  .grid-item img {
+    max-width: 25% !important;
+  }
+</style>
 
 <div class="grid">
   {% for image in page.static_files %}
@@ -42,5 +67,3 @@ gallery:
     percentPosition: true
   });
 </script>
-
-<link rel="stylesheet" href="/assets/css/gallery.css">
