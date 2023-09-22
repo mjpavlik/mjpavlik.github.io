@@ -2,6 +2,7 @@
 title: "Image Gallery"
 layout: default
 excerpt: "Your gallery description here."
+permalink: /gallery/
 gallery:
   - url: /images/gallery_images/10ConflictsInteractive.png
     image_path: /images/gallery_images/10ConflictsInteractive.png
