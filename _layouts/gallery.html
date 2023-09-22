@@ -6,7 +6,7 @@ layout: default
   {% for image in site.static_files %}
     {% if image.path contains 'gallery_images/' %}
       <div class="gallery-item">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name | remove: '.png' | replace: '_', ' ' }}" />
+        <img src="{{ image.path }}" alt="{{ image.name | remove: '.png' | replace: '_', ' ' }}" />
       </div>
     {% endif %}
   {% endfor %}
