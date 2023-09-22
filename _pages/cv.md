@@ -60,8 +60,6 @@ Ongoing Projects
 
 Producing Precarity: The coercive logic of non-enforcement. _Dissertation book project_
 
-On satellite data use in political experiments. _With Alex Coppock, Graeme Blair, & Luke Sanford_
-
 On missing NGO data in International Relations. _With Sarah Bush and Jennifer Hadden_
 
 [Selected] Analysis & General Audience
