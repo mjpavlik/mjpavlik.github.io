@@ -2,7 +2,7 @@
 title: "Image Gallery"
 layout: gallery
 excerpt: "Your gallery description here."
-permalink: /gallery/
+permalink: mjpavlik.github.io/gallery/
 gallery:
   - url: mjpavlik.github.io/images/gallery_images/BelarusInfographic.png
     image_path: /images/gallery_images/BelarusInfographic.png
@@ -13,4 +13,6 @@ gallery:
 ---
 
 
-{% include gallery.html gallery=page.gallery %}
+{% include /_layouts/gallery.html gallery=page.gallery %}
+
+<link rel="stylesheet" href="/assets/css/gallery.css">
