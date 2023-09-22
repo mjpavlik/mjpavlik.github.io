@@ -11,46 +11,9 @@ permalink: /gallery/
 <!-- Masonry library -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
 
-<!-- Gallery styles -->
-<style>
-/* Lightbox styles */
-.lb-outerContainer {
-    background: rgba(0, 0, 0, 0.8);
-  }
-  
-  .lb-image {
-    display: block;
-    max-width: 100%;
-    height: auto;
-  }
-  
-  .lb-nav a.lb-prev, .lb-nav a.lb-next {
-    background: rgba(0, 0, 0, 0.8);
-  }
-  
-  /* Masonry styles */
-  .grid {
-    /* display: flex;
-    flex-wrap: wrap; */
-    margin: 0 auto;
-  }
-  
-  .grid-item {
-    margin-bottom: 20px;
-  }
-  
-  .grid-sizer {
-    width: 33.333%;
-  }
-
-  .grid-item img {
-    max-width: 25% !important;
-  }
-</style>
-
-<div class="grid">
+<div class="grid gallery">
   {% for image in page.static_files %}
-    {% if image.path contains 'imagegs/gallery_images' %}
+    {% if image.path contains 'images/gallery_images' %}
       <div class="grid-item">
         <a href="{{ image.path }}" data-toggle="lightbox" data-gallery="gallery">
           <img src="{{ image.path }}" alt="{{ image.name | remove: '.png' | replace: '_', ' ' }}" />
