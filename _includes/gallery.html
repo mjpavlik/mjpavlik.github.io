@@ -1,30 +1,9 @@
-{% include base_path %}
-
-{% if include.id %}
-  {% assign gallery = page[include.id] %}
-{% else %}
-  {% assign gallery = page.gallery %}
-{% endif %}
-
-{% if gallery.size == 2 %}
-  {% assign gallery_layout = 'half' %}
-{% elsif gallery.size >= 3 %}
-  {% assign gallery_layout = 'third' %}
-{% else %}
-  {% assign gallery_layout = '' %}
-{% endif %}
-
-<figure class="{{ gallery_layout }} {{ include.class }}">
-  {% for img in gallery %}
-    {% if img.url %}
-      <a href="{{ img.url | prepend: base_path }}" {% if img.title %}title="{{ img.title }}"{% endif %}>
-        <img src="{{ '/images/gallery_images/' | prepend: base_path | append: img.image_path }}" alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+<div class="grid">
+  {% for image in page.gallery %}
+    <div class="grid-item">
+      <a href="{{ image.url }}" data-toggle="lightbox" data-gallery="gallery">
+        <img src="{{ image.image_path }}" alt="{{ image.alt }}" />
       </a>
-    {% else %}
-      <img src="{{ '/images/gallery_images/' | prepend: base_path | append: img.image_path }}" alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-    {% endif %}
+    </div>
   {% endfor %}
-  {% if include.caption %}
-    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-  {% endif %}
-</figure>
+</div>

@@ -2,7 +2,7 @@
 title: "Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19"
 collection: publications
 permalink: /publication/2021_opportunistic-repression
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We
 date: 2021-10-25
 venue: 'International Security'
 paperurl: 'http://mjpavlik.github.io/files/grasse-ea_2021.pdf'

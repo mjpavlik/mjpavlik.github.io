@@ -1,13 +1,15 @@
 ---
-title: Image Gallery
-layout: gallery
-permalink: /gallery/
+title: "Image Gallery"
+layout: default
+excerpt: "Your gallery description here."
 gallery:
-  - image_path: /BelarusInfographic.png
-    alt: Example Image 1
-    title: Image 1
-
-  # Add more images here
+  - url: /images/gallery_images/10ConflictsInteractive.png
+    image_path: /images/gallery_images/10ConflictsInteractive.png
+    alt: "10 Conflicts Interactive"
+  - url: /images/gallery_images/2019YearInReviewImage.png
+    image_path: /images/gallery_images/2019YearInReviewImage.png
+    alt: "2019 Year In Review"
 ---
 
-{% include gallery.html %}
+{% include gallery caption="Your optional gallery caption here." %}
+

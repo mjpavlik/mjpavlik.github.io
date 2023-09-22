@@ -9,6 +9,8 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
   </head>
 
   <body>
@@ -26,6 +28,18 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var elem = document.querySelector('.grid');
+    var msnry = new Masonry( elem, {
+      itemSelector: '.grid-item',
+      columnWidth: 200,
+      gutter: 10
+    });
+  });
+</script>
+
 
   </body>
 </html>
