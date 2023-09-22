@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Contesting Injustice"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course, writing requirement"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Yale University, Political Science Department"
+date: 2023-08-31
+location: "New Haven, Conneticut"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Professor Elisabeth Wood, AFAM 186/LAST 214/SOCY 170/PLSC 378
 
-Heading 1
-======
+This was a [Writing Requirement (WR)](https://poorvucenter.yale.edu/writing/undergraduate-writing/wr-requirement) class at Yale, meaning extra writing instruction is required by teaching fellows, who underwent five weeks of coursework devoted to teaching writing. 
 
-Heading 2
-======
-
-Heading 3
-======
+Lecture: ``Suppressing Resistance" 
