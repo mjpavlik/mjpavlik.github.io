@@ -1,6 +1,6 @@
 ---
 title: "Image Gallery"
-layout: gallery
+layout: default
 excerpt: "Your gallery description here."
 permalink: /gallery/
 gallery:
@@ -15,4 +15,4 @@ gallery:
 
 {% include gallery.html %}
 
-<!-- <link rel="stylesheet" href="/assets/css/gallery.css"> -->
+<link rel="stylesheet" href="/assets/css/gallery.css">
