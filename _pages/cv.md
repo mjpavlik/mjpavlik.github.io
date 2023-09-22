@@ -52,7 +52,7 @@ Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. “Cli
 <b><font color="#3e9c70">Pavlik, Melissa</font></b> and Johannes Wiedemann. 2022. “The Cost of Doing Business: Sender-state firms and supply-side sanctions politics.” _Working Paper._
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2021. “Contours of Conflict: An investigation of network centrality and typologies of Taliban violence in Afghanistan.” _Working Paper._
-* Presented at Empirical Studies of Conflict (2021), Conflict Dynamics (2021)
+* Presented at Households in Network Conflict (HiCN) (2021), Conflict Dynamics (2021)
 * Draft available upon request
 
 Ongoing Projects
