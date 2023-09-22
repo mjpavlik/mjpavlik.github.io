@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<!-- Masonry library -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
+
+<!-- Gallery styles -->
+<link rel="stylesheet" href="/assets/css/gallery.css">
+
 <div class="gallery">
   {% for image in site.static_files %}
     {% if image.path contains 'gallery_images/' %}
@@ -11,3 +17,12 @@ layout: default
     {% endif %}
   {% endfor %}
 </div>
+
+<script>
+  var grid = document.querySelector('.gallery');
+  var masonry = new Masonry(grid, {
+    itemSelector: '.gallery-item',
+    columnWidth: '.grid-sizer',
+    percentPosition: true
+  });
+</script>
