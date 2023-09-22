@@ -15,4 +15,4 @@ gallery:
 
 {% include /_includes/gallery.html gallery=page.gallery %}
 
-<link rel="stylesheet" href="/assets/css/gallery.css">
+<!-- <link rel="stylesheet" href="/assets/css/gallery.css"> -->
