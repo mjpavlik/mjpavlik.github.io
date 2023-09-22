@@ -2,7 +2,7 @@
 title: "Contesting Injustice"
 collection: teaching
 type: "Undergraduate course, writing requirement"
-permalink: mjpavlik.github.io/_teaching/03_2023_fall_contesting-injustice
+permalink: /_teaching/03_2023_fall_contesting-injustice
 venue: "Yale University, Political Science Department"
 date: 2023-08-31
 location: "New Haven, Conneticut"
