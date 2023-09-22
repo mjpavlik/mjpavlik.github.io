@@ -2,7 +2,7 @@
 title: "Image Gallery"
 layout: gallery
 excerpt: "Your gallery description here."
-permalink: mjpavlik.github.io/gallery/
+permalink: /gallery/
 gallery:
   - url: mjpavlik.github.io/images/gallery_images/BelarusInfographic.png
     image_path: /images/gallery_images/BelarusInfographic.png
