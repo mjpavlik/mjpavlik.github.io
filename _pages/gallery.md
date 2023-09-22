@@ -1,7 +1,7 @@
 ---
 title: "Image Gallery"
 layout: default
-permalink: /_pages/gallery/
+permalink: /gallery/
 
 ---
 
