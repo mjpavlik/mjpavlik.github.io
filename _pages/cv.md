@@ -35,25 +35,21 @@ Papers
 
 Grasse, Don, <b><font color="#3e9c70">Pavlik, Melissa</font></b> Matfess, Hilary, and Travis B. Curtice. 2021. “Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.” _International Security_ 46 (2): 130–165. 
 * Presented at Yale University's Political Violence and its Legacies Workshop (Fall 2020)
-* Download PDF [here]
+* Download PDF [here](\files\opportunistic_repression.pdf)
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2023. “Assistance, resistance, and the “informalization incentive”: Rethinking the aid-conflict nexus in sub-Saharan Africa.” _Working paper._
 * Presented at APSA (2021), MPSA (2022)
-* View poster [here]; Draft available upon request
 
 Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. “Climate change, conflict, and property rights: Evidence from Nigeria.” _Working paper_.
 * Presented at MPSA (2023), Boston Area Working Group on African Political Economy [BGWAPE] (2023)
-* Draft available upon request
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b> and Ryan Pike. 2023. “Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.” _Working Paper._
 * Presented at MPSA (2023)
-* Pre-analysis plan and draft available upon request
   
 <b><font color="#3e9c70">Pavlik, Melissa</font></b> and Johannes Wiedemann. 2022. “The Cost of Doing Business: Sender-state firms and supply-side sanctions politics.” _Working Paper._
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2021. “Contours of Conflict: An investigation of network centrality and typologies of Taliban violence in Afghanistan.” _Working Paper._
 * Presented at Households in Network Conflict (HiCN) (2021), Conflict Dynamics (2021)
-* Draft available upon request
 
 Ongoing Projects
 =====
