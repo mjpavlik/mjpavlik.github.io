@@ -13,6 +13,6 @@ gallery:
 ---
 
 
-{% include mjpavlik.github.io/_includes/gallery.html gallery=page.gallery %}
+{% include /_includes/gallery.html gallery=page.gallery %}
 
-<link rel="stylesheet" href="mjpavlik.github.io/assets/css/gallery.css">
+<link rel="stylesheet" href="/assets/css/gallery.css">
