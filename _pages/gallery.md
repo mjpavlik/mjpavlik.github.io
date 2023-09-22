@@ -1,6 +1,6 @@
 ---
 title: "Image Gallery"
-layout: gallery
+layout: default
 excerpt: "Your gallery description here."
 gallery:
   - url: /images/gallery_images/10ConflictsInteractive.png
@@ -10,5 +10,6 @@ gallery:
     image_path: /images/gallery_images/2019YearInReviewImage.png
     alt: "2019 Year In Review"
 ---
+
 
 {% include gallery.html gallery=page.gallery %}
