@@ -6,7 +6,7 @@ permalink: /gallery/
 ---
 
 <!-- Lightbox library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" integrity="sha512-+QZ4yJzJ6x7jzJzv5ZL5t9+J8zJf8Jzv5ZL5t9+J8zJf8Jzv5ZL5t9+J8zJf8Jzv5L5t9+J8zJf8Jzv5ZL5t9g==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" crossorigin="anonymous" />
 
 <!-- Masonry library -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
