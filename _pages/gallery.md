@@ -37,6 +37,12 @@ permalink: /gallery/
   <!-- Add more images here -->
 </div>
 
+<style>
+  .grid-item {
+    margin-bottom: 20px;
+  }
+</style>
+
 <script>
   var grid = document.querySelector('.grid');
   var masonry = new Masonry(grid, {
