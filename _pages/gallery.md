@@ -50,7 +50,7 @@ permalink: /gallery/
   var masonry = new Masonry(grid, {
     itemSelector: '.grid-item',
     columnWidth: '.grid-sizer',
-    fitwidth: true,
+    fitWidth: true,
     percentPosition: true
   });
 </script>
