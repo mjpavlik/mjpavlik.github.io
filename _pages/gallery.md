@@ -30,7 +30,7 @@ permalink: /gallery/
   </div>
   <div class="grid-item">
     <a href="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png" data-toggle="lightbox" data-gallery="gallery">
-      <img src="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png"  alt="Image 2" />
+      <img src="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png"  alt="Image 4" />
     </a>
   </div>
   <!-- Add more images here -->
