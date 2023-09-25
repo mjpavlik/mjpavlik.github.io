@@ -11,7 +11,7 @@ permalink: /gallery/
 <!-- Masonry library -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
 
-<div class="grid gallery">
+<!-- <div class="grid gallery">
   {% for image in page.static_files %}
     {% if image.path contains '/gallery_images' %}
       <div class="grid-item">
@@ -21,6 +21,20 @@ permalink: /gallery/
       </div>
     {% endif %}
   {% endfor %} 
+</div> -->
+
+<div class="grid gallery">
+  <div class="grid-item">
+    <a href="/images/gallery_images/BelarusInfographic.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/BelarusInfographic.png" alt="Image 1" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/images/gallery_images/2019YearInReviewImage.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/2019YearInReviewImage.png"  alt="Image 2" />
+    </a>
+  </div>
+  <!-- Add more images here -->
 </div>
 
 <script>
