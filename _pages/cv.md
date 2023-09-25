@@ -58,10 +58,10 @@ On missing NGO data in International Relations. _With Sarah Bush and Jennifer Ha
 <b><font color="#3e9c70">Pavlik, Melissa.</font></b> “Anti-Interventionism Isn’t Enough For Left Foreign Policy.”_Foreign Policy_. August 28, 2021.
 
 Selected publications for _World Politics Review (WPR)_ | 2021 - 2022
-"To Understand Global Conflict, Start With a Map." February 18, 2022.
-"U.S. Sanctions Might Be Easy, but They’re Not Cheap." December 17, 2021.
-"The West’s Border Closure Reflex Comes With a Cost." December 3, 2021.
-"Democracies Bear Some Blame for Democracy’s Global Erosion." November 19, 2021.
+* "To Understand Global Conflict, Start With a Map." February 18, 2022.
+* "U.S. Sanctions Might Be Easy, but They’re Not Cheap." December 17, 2021.
+* "The West’s Border Closure Reflex Comes With a Cost." December 3, 2021.
+* "Democracies Bear Some Blame for Democracy’s Global Erosion." November 19, 2021.
   
 Grasse, Don, <b><font color="#3e9c70">Melissa Pavlik</font></b>, Hilary Matfess, and Travis B. Curtice.“Autocratic governments are using coronavirus as a pretext to clamp down on opponents.” _The Washington Post_. July 31, 2020.
 
