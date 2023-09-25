@@ -1,5 +1,5 @@
 ---
-title: "Image Gallery"
+title: "Gallery"
 layout: default
 author_profile: true
 permalink: /gallery/
