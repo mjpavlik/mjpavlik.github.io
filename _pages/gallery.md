@@ -47,7 +47,7 @@ permalink: /gallery/
     width: 33.333%;
   }
    img {
-    max-width: 100%;
+    max-width: 25%;
     height: auto;
   }
 </style>
