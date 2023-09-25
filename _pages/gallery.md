@@ -34,6 +34,16 @@ permalink: /gallery/
       <img src="/images/gallery_images/2019YearInReviewImage.png"  alt="Image 2" />
     </a>
   </div>
+  <div class="grid-item">
+    <a href="/images/gallery_images/CDT_South-Africa.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/CDT_South-Africa.png"  alt="Image 3" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png"  alt="Image 2" />
+    </a>
+  </div>
   <!-- Add more images here -->
 </div>
 
