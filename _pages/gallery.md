@@ -1,6 +1,7 @@
 ---
 title: "Image Gallery"
 layout: default
+author_profile: true
 permalink: /gallery/
 
 ---
