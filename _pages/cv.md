@@ -35,7 +35,7 @@ Papers
 
 Grasse, Don, <b><font color="#3e9c70">Pavlik, Melissa</font></b> Matfess, Hilary, and Travis B. Curtice. 2021. “Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.” _International Security_ 46 (2): 130–165. 
 * Presented at Yale University's Political Violence and its Legacies Workshop (Fall 2020)
-* Download PDF [here](\files\opportunistic_repression.pdf)
+* Download PDF [here](/files/opportunistic_repression.pdf) 
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2023. “Assistance, resistance, and the “informalization incentive”: Rethinking the aid-conflict nexus in sub-Saharan Africa.” _Working paper._
 * Presented at APSA (2021), MPSA (2022)
