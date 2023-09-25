@@ -5,6 +5,8 @@ permalink: /gallery/
 
 ---
 
+{% include base_path %}
+
 <!-- Lightbox library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" crossorigin="anonymous" />
 
