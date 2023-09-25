@@ -49,7 +49,7 @@ permalink: /gallery/
     margin: 1px;
   }
    img {
-    max-width: 25%;
+    max-width: 100%;
     height: auto;
   }
 </style>
