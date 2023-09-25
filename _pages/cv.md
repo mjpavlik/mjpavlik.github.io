@@ -46,7 +46,7 @@ Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. "[Clim
 Ongoing Projects
 =====
 
-Producing Precarity: The coercive logic of non-enforcement._Dissertation book project_
+Producing Precarity: The coercive logic of non-enforcement._Dissertation book project_ <br>
 On missing NGO data in International Relations. _With Sarah Bush and Jennifer Hadden_
 
 [Selected] Analysis & General Audience
@@ -65,10 +65,10 @@ Selected publications for _World Politics Review (WPR)_ | 2021 - 2022
 Grasse, Don, <b><font color="#3e9c70">Melissa Pavlik</font></b>, Hilary Matfess, and Travis B. Curtice.“[Autocratic governments are using coronavirus as a pretext to clamp down on opponents.](https://www.washingtonpost.com/politics/2020/07/31/autocratic-governments-are-using-covid-19-pretext-clamp-down-opponents/)” _The Washington Post_. July 31, 2020.
 
 Selected publications for the _Armed Conflict Location & Event Data Project (ACLED)_ | 2018 - 2020
-* "[A great and sudden change: the global political violence landscape before and after the COVID-19 pandemic.](https://acleddata.com/2020/08/04/a-great-and-sudden-change-the-global-political-violence-landscape-before-and-after-the-covid-19-pandemic/)" **August 4,  2020.
+* "[A great and sudden change: the global political violence landscape before and after the COVID-19 pandemic.](https://acleddata.com/2020/08/04/a-great-and-sudden-change-the-global-political-violence-landscape-before-and-after-the-covid-19-pandemic/)" August 4,  2020.
 * "[ACLED 2019: The year in review.](https://acleddata.com/2020/03/02/acled-2019-the-year-in-review/)" With Roudabeh Kishi and Sam Jones. March 2, 2020.
-"[The World According to the Taliban.](https://acleddata.com/2019/12/19/the-world-according-to-the-taliban-new-data-on-afghanistan/)" December 19, 2019.
-“[‘Terribly and Terrifyingly Normal’: Political Violence Targeting Women.](https://acleddata.com/2019/05/29/terribly-and-terrifyingly-normal-political-violence-targeting-women/)” With Roudabeh Kishi and Hilary Matfess. May 29, 2019.
+* "[The World According to the Taliban.](https://acleddata.com/2019/12/19/the-world-according-to-the-taliban-new-data-on-afghanistan/)" December 19, 2019.
+* “[‘Terribly and Terrifyingly Normal’: Political Violence Targeting Women.](https://acleddata.com/2019/05/29/terribly-and-terrifyingly-normal-political-violence-targeting-women/)” With Roudabeh Kishi and Hilary Matfess. May 29, 2019.
   
 
 Employment
@@ -111,7 +111,7 @@ Awards, grants, honors
 Skills
 ======
 _Programming_ R, Python (Intermediate), SQL (Beginner), HTML/CSS, Stata (Reluctant) <br>
-_Visualization & Markup_ <span class="latex">X<sub><span class=revcap>e</span></sub>L<sup>a</sup>T<sub>e</sub>X</span>, Markdown, Tableau <br>
+_Visualization & Markup_ <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>, Markdown, Tableau <br>
 _Geo-spatial_ QGIS, ArcGIS, Python spatial stack, Google Earth Engine
 
 Talks

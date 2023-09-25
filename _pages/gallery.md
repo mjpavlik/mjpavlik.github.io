@@ -44,7 +44,7 @@ permalink: /gallery/
     margin-bottom: 20px;
   }
     .grid-sizer {
-    width: 33.333%;a
+    width: 33.333%;
   }
    img {
     max-width: 100%;
