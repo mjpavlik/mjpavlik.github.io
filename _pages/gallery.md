@@ -41,12 +41,12 @@ permalink: /gallery/
 
 <style>
   .grid-item {
-    margin: 10px;
+    margin: 1px;
   }
   .grid-sizer,
   .grid-item {
-    width: calc(33.33% - 20px);
-    margin: 10px;
+    width: calc(33.33% - 2px);
+    margin: 1px;
   }
    img {
     max-width: 25%;
