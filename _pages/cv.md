@@ -33,95 +33,89 @@ Chicago, IL, U.S.
 Papers
 ======
 
-Grasse, Don, <b><font color="#3e9c70">Pavlik, Melissa</font></b> Matfess, Hilary, and Travis B. Curtice. 2021. “Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.” _International Security_ 46 (2): 130–165. 
+Grasse, Don, <b><font color="#3e9c70">Pavlik, Melissa</font></b> Matfess, Hilary, and Travis B. Curtice. 2021. **“Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.”** _International Security_ 46 (2): 130–165. 
 * Presented at Yale University's Political Violence and its Legacies Workshop (Fall 2020)
-* Download PDF [here](/files/opportunistic_repression.pdf) 
+* Download PDF [here](http://mjpavlik.github.io/files/grasse_ea_2021.pdf)
 
-<b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2023. “Assistance, resistance, and the “informalization incentive”: Rethinking the aid-conflict nexus in sub-Saharan Africa.” _Working paper._
+<b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2023. **“Assistance, resistance, and the “informalization incentive”: Rethinking the aid-conflict nexus in sub-Saharan Africa.”** _Working paper._
 * Presented at APSA (2021), MPSA (2022)
 
-Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. “Climate change, conflict, and property rights: Evidence from Nigeria.” _Working paper_.
+Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. **“Climate change, conflict, and property rights: Evidence from Nigeria.”** _Working paper_.
 * Presented at MPSA (2023), Boston Area Working Group on African Political Economy [BGWAPE] (2023)
 
-<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Ryan Pike. 2023. “Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.” _Working Paper._
+<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Ryan Pike. 2023. **“Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.”** _Working Paper._
 * Presented at MPSA (2023)
   
-<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Johannes Wiedemann. 2022. “The Cost of Doing Business: Sender-state firms and supply-side sanctions politics.” _Working Paper._
+<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Johannes Wiedemann. 2022. **“The Cost of Doing Business: Sender-state firms and supply-side sanctions politics.”** _Working Paper._
 
-<b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2021. “Contours of Conflict: An investigation of network centrality and typologies of Taliban violence in Afghanistan.” _Working Paper._
+<b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2021. **“Contours of Conflict: An investigation of network centrality and typologies of Taliban violence in Afghanistan.”** _Working Paper._
 * Presented at Households in Network Conflict (HiCN) (2021), Conflict Dynamics (2021)
 
 Ongoing Projects
 =====
 
-Producing Precarity: The coercive logic of non-enforcement. _Dissertation book project_
+**Producing Precarity: The coercive logic of non-enforcement.** _Dissertation book project_
 
-On missing NGO data in International Relations. _With Sarah Bush and Jennifer Hadden_
+**On missing NGO data in International Relations.** _With Sarah Bush and Jennifer Hadden_
 
 [Selected] Analysis & General Audience
 =====
 
-<b><font color="#3e9c70">Pavlik, Melissa.</font></b> "The Horror and the Humanity: Review of Samuel Moyn's Humane." _Tocqueville 2021._ September 9, 2021.
+<b><font color="#3e9c70">Pavlik, Melissa.</font></b> **"The Horror and the Humanity: Review of Samuel Moyn's Humane."** _Tocqueville 2021._ September 9, 2021.
 
-<b><font color="#3e9c70">Pavlik, Melissa.</font></b> “Anti-Interventionism Isn’t Enough For Left Foreign Policy.” _Foreign Policy_. August 28, 2021.
+<b><font color="#3e9c70">Pavlik, Melissa.</font></b> **“Anti-Interventionism Isn’t Enough For Left Foreign Policy.”** _Foreign Policy_. August 28, 2021.
 
-Selected publications for World Politics Review (WPR) | 2021 - 2022
-* "To Understand Global Conflict, Start With a Map." February 18, 2022.
-* "U.S. Sanctions Might Be Easy, but They’re Not Cheap." December 17, 2021.
-* "The West’s Border Closure Reflex Comes With a Cost." December 3, 2021.
-* "Democracies Bear Some Blame for Democracy’s Global Erosion." November 19, 2021.
+Selected publications for _World Politics Review (WPR)_ | 2021 - 2022
+*** "To Understand Global Conflict, Start With a Map."** February 18, 2022.
+* **"U.S. Sanctions Might Be Easy, but They’re Not Cheap."** December 17, 2021.
+* **"The West’s Border Closure Reflex Comes With a Cost."** December 3, 2021.
+* **"Democracies Bear Some Blame for Democracy’s Global Erosion."** November 19, 2021.
   
-Grasse, Don, <b><font color="#3e9c70">Melissa Pavlik</font></b>, Hilary Matfess, and Travis B. Curtice. “Autocratic governments are using coronavirus as a pretext to clamp down on opponents.” _The Washington Post_. July 31, 2020.
+Grasse, Don, <b><font color="#3e9c70">Melissa Pavlik</font></b>, Hilary Matfess, and Travis B. Curtice.** “Autocratic governments are using coronavirus as a pretext to clamp down on opponents.”** _The Washington Post_. July 31, 2020.
 
-Selected publications for the Armed Conflict Location & Event Data Project (ACLED) | 2018 - 2020
-* "A great and sudden change: the global political violence landscape before and after the COVID-19 pandemic." August 4,  2020.
-* "ACLED 2019: The year in review." With Roudabeh Kishi and Sam Jones. March 2, 2020.
-* "The World According to the Taliban." December 19, 2019.
-* “‘Terribly and Terrifyingly Normal’: Political Violence Targeting Women.” With Roudabeh Kishi and Hilary Matfess. May 29, 2019.
+Selected publications for the _Armed Conflict Location & Event Data Project (ACLED)_ | 2018 - 2020
+* **"A great and sudden change: the global political violence landscape before and after the COVID-19 pandemic." **August 4,  2020.
+* **"ACLED 2019: The year in review."** With Roudabeh Kishi and Sam Jones. March 2, 2020.
+* **"The World According to the Taliban."** December 19, 2019.
+* **“‘Terribly and Terrifyingly Normal’: Political Violence Targeting Women.”** With Roudabeh Kishi and Hilary Matfess. May 29, 2019.
   
 
 Employment
 =====
 
 2021- | <b>Editorial Assistant</b> <br>
-American Political Science Review (APSR) Editorial Board Member Elisabeth Wood
+_American Political Science Review (APSR) _Editorial Board Member Elisabeth Wood
 
 2021- | <b>(Quantitative) Research Assistant</b> <br>
-Institute for Social and Policy Studies (ISPS) at Yale University
+_Institute for Social and Policy Studies (ISPS) _at Yale University
 * Sarah Bush
 * Alex Coppock
 * P. Aronow
 	
 2017 - 2021 | <b>Research Analyst</b> <br>
-Armed Conflict Location & Event Data Project (ACLED)
+_Armed Conflict Location & Event Data Project (ACLED)_
 
 2017 – 2018 |<b>Research Analyst</b> <br>
-Emerging African Paradigms Project at King’s College London
+_Emerging African Paradigms Project at King’s College London_
 	
 2016 - 2017 | <b>Research Analyst & Head of Counterterrorism Team</b><br>
-Institute for the Study of War
+_Institute for the Study of War_
 
 
 Awards, grants, honors
 ======
 
-2023 | Pre-Dissertation Research Grant from <b>MacMillan Center for International Area Studies</b> <br>
-New Haven, CT, U.S.
+2023 |** Pre-Dissertation Research Grant** from _MacMillan Center for International Area Studies_. <br>
 
-2022 | Graduate Fellowship from <b>Overbrook Fellowship Fund</b><br>
-New Haven, CT, U.S.
+2022 | **Graduate Fellowship** from _Overbrook Fellowship Fund_<br>
 
-2018 | Postgraduate Scholarship from the <b>Sidney Perry Foundation</b><br>
-London, U.K.
+2018 | **Postgraduate scholarship** from the _Sidney Perry Foundation_<br>
 
-2018 | Postgraduate scholarship from <b>Chizel Education Foundation Trust Award</b><br>
-London, U.K.
+2018 | **Postgraduate scholarship** from _Chizel Education Foundation Trust Award_<br>
 
-2018 | Postgraduate scholarship from <b>Veterans for Peace</b> <br>
-London, U.K.
+2018 | **Postgraduate scholarship** from _Veterans for Peace_<br>
 
-2017 | Research Fellowship from <b>Hertog Foundation</b> <br>
-Washington D.C.
+2017 | Research Fellowship from _The Hertog Foundation_<br>
 
 Skills
 ======
@@ -132,37 +126,24 @@ _Geo-spatial_ QGIS, ArcGIS, Python spatial stack, Google Earth Engine
 Talks
 ======
 April 2023 | <b>Boston Area Working Group on African Political Economy (BWGAPE)</b> <br>
-New Haven, CT, U.S.
 
-March 2023 | <b>Midwestern Political Science Association (MPSA)<b> <br>
-Chicago, IL, U.S.
+March 2023 | <b>Midwestern Political Science Association (MPSA)</b> <br>
 
 October 2022 | <b>American Political Science Association (APSA)</b> <br>
-Montreal, Canada
 
-October 2021 | <b>Midwestern Political Science Association (MPSA)<b> <br>
-Chicago, IL, U.S.
+October 2021 | <b>Midwestern Political Science Association (MPSA)</b> <br>
 
-October 2021 | <b>American Political Science Association (APSA)<b> [DECLINED - COVID] <br>
-Seattle, WA, U.S.
+October 2021 | <b>American Political Science Association (APSA)</b> [DECLINED - COVID] <br>
 
 October 2021 | <b>Yale University's Political Violence & Its Legacies (PVL)</b> <br>
-New Haven, CT
 
 October 2021 | <b>Conflict Dynamics Workshop</b> <br>
-Oxford, U.K.
-
-February 2020 <b>Southern Political Science Association (SPSA)</b> - [DECLINED] <br>
-New Orleans, LA, U.S.
 
 February 2019 | <b>Commonwealth: Countering the Diversion of Small Arms and Light Weaponry</b> <br>
-Streckney, U.K.
 
 July 2019 | <b>Countering Improvised Explosive Devices (C-IED) Working Group</b> <br>
-Nairobi, Kenya
 
 October 2019 | <b>New Methods in Empirical Conflict Research</b> <br>
-Paris, France
   
 Teaching
 ======
@@ -170,10 +151,10 @@ Teaching
 Fall 2023 | <b>CONTESTING INJUSTICE</b> <br>
 Professor Elisabeth Wood, Political Science Department, Yale University (Fall 2023)
 
-Spring 2023 | <b>GOVERNANCE & POLITICS IN AFRICA</b> <br>
+Spring 2023 | <font color="#3e9c70"><b>GOVERNANCE & POLITICS IN AFRICA</b></font> <br>
 Professor Kate Baldwin, Political Science Department, Yale University
 
-Fall 2022 | <b>INTRODUCTION TO PROBABILITY THEORY</b> <br>
+Fall 2022 | <font color="#3e9c70"><b>INTRODUCTION TO PROBABILITY THEORY</b></font> <br>
 Professor Robert Wooster, Statistics & Data Science Department, Yale University 
 
 Service
