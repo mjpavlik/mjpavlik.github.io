@@ -2,7 +2,7 @@
 title: "Climate change, conflict, and property rights: Evidence from Nigeria."
 collection: publications
 permalink: /2023_climate-change
-date: 2023
+date: 2023-08-01
 venue: 'Working paper'
 citation: 'Grasse, Don and <b>Melissa Pavlik</b>. (2023). &quot;Climate change, conflict, and property rights: Evidence from Nigeria.&quot; <i>Working paper</i>.'
 ---
