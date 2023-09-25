@@ -11,19 +11,8 @@ permalink: /gallery/
 <!-- Masonry library -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
 
-<!-- <div class="grid gallery">
-  {% for image in page.static_files %}
-    {% if image.path contains '/gallery_images' %}
-      <div class="grid-item">
-        <a href="{{ image.path }}" data-toggle="lightbox" data-gallery="gallery">
-          <img src="{{ image.path }}" alt="{{ image.name | remove: '.png' | replace: '_', ' ' }}" />
-        </a>
-      </div>
-    {% endif %}
-  {% endfor %} 
-</div> -->
-
 <div class="grid gallery">
+<div class="grid-sizer"></div>
   <div class="grid-item">
     <a href="/images/gallery_images/BelarusInfographic.png" data-toggle="lightbox" data-gallery="gallery">
       <img src="/images/gallery_images/BelarusInfographic.png" alt="Image 1" />
@@ -51,10 +40,13 @@ permalink: /gallery/
   .grid-item {
     margin-bottom: 20px;
   }
+    .grid-sizer {
+    width: 33.333%;
+  }
 </style>
 
 <script>
-  var grid = document.querySelector('.grid');
+  var grid = document.querySelector('.gallery');
   var masonry = new Masonry(grid, {
     itemSelector: '.grid-item',
     columnWidth: '.grid-sizer',
