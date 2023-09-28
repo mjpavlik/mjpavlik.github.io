@@ -21,36 +21,49 @@ permalink: /gallery/
       <img src="/images/gallery_images/BelarusInfographic.png" alt="Belarus Infographic" />
     </a>
   </div>
+
   <div class="grid-item">
     <a href="/images/gallery_images/2019YearInReviewImage.png" data-toggle="lightbox" data-gallery="gallery">
       <img src="/images/gallery_images/2019YearInReviewImage.png"  alt="2019 Year in Review" />
     </a>
   </div>
+
   <div class="grid-item">
     <a href="/images/gallery_images/CDT_South-Africa.png" data-toggle="lightbox" data-gallery="gallery">
       <img src="/images/gallery_images/CDT_South-Africa.png"  alt="Covid Disorder Tracker: South Africa" />
     </a>
   </div>
+
   <div class="grid-item">
-    <a href="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png" data-toggle="lightbox" data-gallery="gallery">
-      <img src="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png"  alt="Post-Covid conflict trends" />
+    <a href="/images/gallery_images/conflict-dash.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/conflict-dash.png"  alt="Post-Covid conflict trends" />
     </a>
   </div>
-    <div class="grid-item">
-    <a href="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png" data-toggle="lightbox" data-gallery="gallery">
-      <img src="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png"  alt="10 Conflicts to watch for in 2019 (Interactive)" />
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/10ConflictsInteractive.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/10ConflictsInteractive.png"  alt="10 Conflicts to watch for in 2019 (Interactive)" />
     </a>
   </div>
-    <div class="grid-item">
-    <a href="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png" data-toggle="lightbox" data-gallery="gallery">
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/alqaeda.png" data-toggle="lightbox" data-gallery="gallery">
       <img src="/images/gallery_images/alqaeda.png"  alt="Al Qaeda Worldwide" />
     </a>
   </div>
-    <div class="grid-item">
-    <a href="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png" data-toggle="lightbox" data-gallery="gallery">
-      <img src="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png"  alt="Post-Covid conflict trends" />
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/alshabaab.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/alshabaab.png"  alt="Al Shabaab Infographic" />
     </a>
   </div>
+  
+  <div class="grid-item">
+    <a href="/images/gallery_images/CAR-Infographic.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/CAR-Infographic.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
   <!-- Add more images here -->
 </div>
 
