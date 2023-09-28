@@ -64,6 +64,107 @@ permalink: /gallery/
     </a>
   </div>
 
+  <div class="grid-item">
+    <a href="/images/gallery_images/Dashboard-1-3.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/Dashboard-1-3.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/Dashboard-1-13.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/Dashboard-1-13.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/Dashboard-2.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/Dashboard-2.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/Dashboard-3-19.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/Dashboard-3-19.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/Demodash.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/Demodash.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="/images/gallery_images/FIG-1-POST-COVID-MAP-DASH.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/FIG-1-POST-COVID-MAP-DASHaphic.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/India_dash.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/India_dash.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+ <div class="grid-item">
+    <a href="/images/gallery_images/IS_Expansion.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/IS_Expansion.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/IsraelPalestine.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/IsraelPalestine.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/mobviolenceDash.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/mobviolenceDash.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/morecountriesmoreviolence.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/morecountriesmoreviolence.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/PakistanDash.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/PakistanDash.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/philippines.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/philippines.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/revengeofthekurds.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/revengeofthekurds.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/south-africa.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/south-arica.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/taking stock.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/taking stock.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
+
+   <div class="grid-item">
+    <a href="/images/gallery_images/PakistanDash.png" data-toggle="lightbox" data-gallery="gallery">
+      <img src="/images/gallery_images/PakistanDash.png"  alt="Central African Republic (CAR) Infographic" />
+    </a>
+  </div>
   <!-- Add more images here -->
 </div>
 
