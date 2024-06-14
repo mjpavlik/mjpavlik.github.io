@@ -12,3 +12,5 @@ redirect_from:
 
 Before grad school, Mel spent years mapping and analyzing political violence for NGOs, conflict observatories, and think tanks, including most recently at the [Armed Conflict Location & Event Data Project (ACLED)](https://acleddata.com/author/melissa-pavlik/). Her analysis and data visualizations have been published across a wide variety of outlets, including [The Washington Post's Monkey Cage](https://www.washingtonpost.com/politics/2020/07/31/autocratic-governments-are-using-covid-19-pretext-clamp-down-opponents/), [World Politics Review](https://www.worldpoliticsreview.com/author/mel-pavlik/), and [Foreign Policy](https://foreignpolicy.com/author/mel-pavlik/). 
 
+Contact at melissa[dot]pavlik[at]yale.edu
+
