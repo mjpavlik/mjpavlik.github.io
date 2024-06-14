@@ -94,23 +94,23 @@ _Institute for the Study of War_
 Grants, awards, honors
 ======
 
-2023 | <b> Doctoral Dissertation Research Improvement grant </b> from the _National Science Foundaqtion (NSF)_ via the American Political Science Association (APSA)
+2023 &#124; <b> Doctoral Dissertation Research Improvement grant </b> from the _National Science Foundaqtion (NSF)_ via the American Political Science Association (APSA)
 
-2023 | <b>Nuclear Security Fellowship</b> from _Nuclear Security Program_ at _International Security Studies_ at Yale University<br>
+2023 &#124; <b>Nuclear Security Fellowship</b> from _Nuclear Security Program_ at _International Security Studies_ at Yale University<br>
 
-2023 | <b> ISS Fellowship </b> from _International Security Studies_ at Yale University <br>
+2023 &#124; <b> ISS Fellowship </b> from _International Security Studies_ at Yale University <br>
 
-2023 | <b>Pre-Dissertation Research Grant</b> from _MacMillan Center for International Area Studies_ at Yale University<br> 
+2023 &#124; <b>Pre-Dissertation Research Grant</b> from _MacMillan Center for International Area Studies_ at Yale University<br> 
 
-2022 | <b>Graduate Fellowship</b> from _Overbrook Fellowship Fund_<br>
+2022 &#124; <b>Graduate Fellowship</b> from _Overbrook Fellowship Fund_<br>
 
-2018 | <b>Postgraduate scholarship</b> from the _Sidney Perry Foundation_<br>
+2018 &#124; <b>Postgraduate scholarship</b> from the _Sidney Perry Foundation_<br>
 
-2018 | <b>Postgraduate scholarship</b> from _Chizel Education Foundation Trust Award_<br>
+2018 &#124; <b>Postgraduate scholarship</b> from _Chizel Education Foundation Trust Award_<br>
 
-2018 | <b>Postgraduate scholarship</b> from _Veterans for Peace_<br>
+2018 &#124; <b>Postgraduate scholarship</b> from _Veterans for Peace_<br>
 
-2017 | <b>Research Fellowship</b> from _The Hertog Foundation_<br>
+2017 &#124; <b>Research Fellowship</b> from _The Hertog Foundation_<br>
 
 Skills
 ======
