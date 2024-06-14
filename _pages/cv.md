@@ -43,7 +43,7 @@ Bush, Sarah Sunn, Hadden, Jennifer and<b><font color="#3e9c70">Pavlik, Melissa</
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b> and Ryan Pike. 2024. "[Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.](melissapavlik.com/2023_words-warcraft)" _Working Paper_.
 
-<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Johannes Wiedemann. 2022. "[The Cost of Doing Business: Sender-state firms and supply-side sanctions politics]().”** _Working Paper._
+<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Johannes Wiedemann. 2022. "[The Cost of Doing Business: Sender-state firms and supply-side sanctions politics]().” _Working Paper._
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2021. “[Contours of Conflict: An investigation of network centrality and typologies of Taliban violence in Afghanistan]().” _Working Paper._
 
