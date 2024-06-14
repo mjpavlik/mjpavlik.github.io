@@ -35,19 +35,17 @@ Papers
 
 Grasse, Don, <b><font color="#3e9c70">Pavlik, Melissa</font></b> Matfess, Hilary, and Travis B. Curtice. 2021. "[Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19](http://mjpavlik.github.io/files/grasse_ea_2021.pdf)." _International Security_ 46 (2): 130–165. 
 
-Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. "[Climate change, conflict, and property rights: Evidence from Nigeria.](melissapavlik.com/2023_grasse-pavlik_climate-change)" _Working paper_.
+Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. "[Climate change, conflict, and property rights: Evidence from Nigeria.](melissapavlik.com/2023_grasse-pavlik_climate-change)" _Under review at American Journal of Political Science (AJPS)_.
 
-<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Ryan Pike. 2023. "[Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.](melissapavlik.com/2023_words-warcraft)" _Working Paper_.
-  
+<b><font color="#3e9c70">Melissa Pavlik</font></b>. 2024. "Producing Precarity: Repression Through State Restraint in the Lagos Informal Transport Industry" _Working (Job Market) Paper_.
+
+Bush, Sarah Sunn, Hadden, Jennifer and<b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2024. "[How Many INGOs Are There? Assessing Missingness and its Implications for INGO data.](https://www.peio.me/wp-content/uploads/PEIO16/submission_140.pdf)" _Working Paper_.
+
+<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Ryan Pike. 2024. "[Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.](melissapavlik.com/2023_words-warcraft)" _Working Paper_.
+
 <b><font color="#3e9c70">Pavlik, Melissa</font></b> and Johannes Wiedemann. 2022. "[The Cost of Doing Business: Sender-state firms and supply-side sanctions politics]().”** _Working Paper._
 
 <b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2021. “[Contours of Conflict: An investigation of network centrality and typologies of Taliban violence in Afghanistan]().” _Working Paper._
-
-Ongoing Projects
-=====
-
-Producing Precarity: The coercive logic of non-enforcement._Dissertation book project_ <br>
-On missing NGO data in International Relations. _With Sarah Bush and Jennifer Hadden_
 
 [Selected] Analysis & General Audience
 =====
@@ -93,20 +91,26 @@ _Emerging African Paradigms Project at King’s College London_
 _Institute for the Study of War_
 
 
-Awards, grants, honors
+Grants, awards, honors
 ======
 
-`2023 | **Pre-Dissertation Research Grant** from _MacMillan Center for International Area Studies_<br>`
+2023 | <b> Doctoral Dissertation Research Improvement grant </b> from the _National Science Foundaqtion (NSF)_ via the American Political Science Association (APSA)
 
-`2022 | **Graduate Fellowship** from _Overbrook Fellowship Fund_<br>`
+2023 | <b>Nuclear Security Fellowship</b> from _Nuclear Security Program_ at _International Security Studies_ at Yale University<br>
 
-`2018 | **Postgraduate scholarship** from the _Sidney Perry Foundation_<br>`
+2023 | <b> ISS Fellowship </b> from _International Security Studies_ at Yale University <br>
 
-`2018 | **Postgraduate scholarship** from _Chizel Education Foundation Trust Award_<br>`
+2023 | <b>Pre-Dissertation Research Grant</b> from _MacMillan Center for International Area Studies_ at Yale University<br> 
 
-`2018 | **Postgraduate scholarship** from _Veterans for Peace_<br>`
+2022 | <b>Graduate Fellowship</b> from _Overbrook Fellowship Fund_<br>
 
-`2017 | **Research Fellowship** from _The Hertog Foundation_<br>`
+2018 | <b>Postgraduate scholarship</b> from the _Sidney Perry Foundation_<br>
+
+2018 | <b>Postgraduate scholarship</b> from _Chizel Education Foundation Trust Award_<br>
+
+2018 | <b>Postgraduate scholarship</b> from _Veterans for Peace_<br>
+
+2017 | <b>Research Fellowship</b> from _The Hertog Foundation_<br>
 
 Skills
 ======
@@ -116,25 +120,29 @@ _Geo-spatial_ QGIS, ArcGIS, Python spatial stack, Google Earth Engine
 
 Talks
 ======
-`April 2023 | <b>Boston Area Working Group on African Political Economy (BWGAPE)</b><br>`
+July 2024 | <b>European Political Science Association (EPSA)</b><br>
 
-`March 2023 | <b>Midwestern Political Science Association (MPSA)</b><br>`
+June 2024 | <b>Political Economy of International Organization</b><br>
 
-`October 2022 | <b>American Political Science Association (APSA)</b><br>`
+April 2023 | <b>Boston Area Working Group on African Political Economy (BWGAPE)</b><br>
 
-`October 2021 | <b>Midwestern Political Science Association (MPSA)</b><br>`
+March 2023 | <b>Midwestern Political Science Association (MPSA)</b><br>
 
-`October 2021 | <b>American Political Science Association (APSA)</b> [DECLINED - COVID]<br>`
+October 2022 | <b>American Political Science Association (APSA)</b><br>
 
-`October 2021 | <b>Yale University's Political Violence & Its Legacies (PVL)</b><br>`
+October 2021 | <b>Midwestern Political Science Association (MPSA)</b><br>
 
-`October 2021 | <b>Conflict Dynamics Workshop</b><br>`
+October 2021 | <b>American Political Science Association (APSA)</b> [DECLINED - COVID]<br>
 
-`February 2019 | <b>Commonwealth: Countering the Diversion of Small Arms and Light Weaponry</b><br>`
+October 2021 | <b>Yale University's Political Violence & Its Legacies (PVL)</b><br>
 
-`July 2019 | <b>Countering Improvised Explosive Devices (C-IED) Working Group</b><br>`
+October 2021 | <b>Conflict Dynamics Workshop</b><br>
 
-`October 2019 | <b>New Methods in Empirical Conflict Research</b><br>`
+February 2019 | <b>Commonwealth: Countering the Diversion of Small Arms and Light Weaponry</b><br>
+
+July 2019 | <b>Countering Improvised Explosive Devices (C-IED) Working Group</b><br>
+
+October 2019 | <b>New Methods in Empirical Conflict Research</b><br>
   
 Teaching
 ======
