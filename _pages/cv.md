@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!-- 
+
 {% include base_path %}
 
 <p>If the PDF does not load, you can <a href="{{ '/files/cv.pdf' | relative_url }}">download it here</a>.</p>
@@ -14,10 +14,7 @@ redirect_from:
 <iframe src="{{ '/files/cv.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;">
   This browser does not support embedded PDFs. Please <a href="{{ '/files/cv.pdf' | relative_url }}">download the PDF</a> to view it.
 </iframe>
--->
 
-
-{% include base_path %}
 
 _Download pdf [here](\files\cv.pdf)_
 
