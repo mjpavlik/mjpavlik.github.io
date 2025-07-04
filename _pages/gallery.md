@@ -13,6 +13,8 @@ permalink: /gallery/
 
 <!-- Masonry library -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
 
 <div class="grid gallery">
 <div class="grid-sizer"></div>
@@ -185,10 +187,12 @@ permalink: /gallery/
 
 <script>
   var grid = document.querySelector('.gallery');
-  var masonry = new Masonry(grid, {
-    itemSelector: '.grid-item',
-    columnWidth: '.grid-sizer',
-    fitWidth: true,
-    percentPosition: true
+  imagesLoaded(grid, function () {
+    new Masonry(grid, {
+      itemSelector: '.grid-item',
+      columnWidth: '.grid-sizer',
+      fitWidth: true,
+      percentPosition: true
+    });
   });
 </script>
