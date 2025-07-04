@@ -1,0 +1,77 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+// .gallery {
+//    /* Gallery styles */
+// .grid {
+//     margin: 0 auto;
+//   }
+  
+//   .grid-item {
+//     margin-bottom: 20px;
+//   }
+  
+//   .grid-sizer {
+//     width: 33.333%;
+//   }
+  
+//   .grid-item img {
+//     max-width: 25% !important;
+//   }
+  
+//   /* Lightbox styles */
+//   .lb-outerContainer {
+//     background: rgba(0, 0, 0, 0.8);
+//   }
+  
+//   .lb-image {
+//     display: block;
+//     max-width: 100%;
+//     height: auto;
+//   }
+  
+//   .lb-nav a.lb-prev, .lb-nav a.lb-next {
+//     background: rgba(0, 0, 0, 0.8);
+//   }
+//   }
+
+  
