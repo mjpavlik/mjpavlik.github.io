@@ -1,13 +1,20 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-redirect_to:
-  - /files/cv.pdf
 ---
+
+{% include base_path %}
+
+<p>If the PDF does not load, you can <a href="{{ '/files/cv.pdf' | relative_url }}">download it here</a>.</p>
+
+<iframe src="{{ '/files/cv.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;">
+  This browser does not support embedded PDFs. Please <a href="{{ '/files/cv.pdf' | relative_url }}">download the PDF</a> to view it.
+</iframe>
+
 <!-- 
 {% include base_path %}
 
