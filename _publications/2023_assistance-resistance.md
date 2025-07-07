@@ -1,6 +1,8 @@
 ---
 title: "Assistance, Resistance, and the 'Informalization Incentive:' Rethinking the Aid-Conflict Nexus in Sub-Saharan Africa"
 permalink: /2023_assistance-resistance
+layout: publication
+collection: publications
 date: 2023-07-01
 venue: 'Working Paper'
 abstract: >
