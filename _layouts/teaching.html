@@ -14,27 +14,27 @@ layout: default
   </header>
   
   <h3>Course Details</h3>
-  {% if page.role}
+  {% if page.role %}
     <p> <strong>Role:</strong> {{ page.role }}</p>
   {% endif %}
-  {% if page.level}
+  {% if page.level %}
     <p> <strong>Course Level:</strong> {{ page.level }}</p>
   {% endif %}
-  {% if page.instructor}
+  {% if page.instructor %}
     <p> <strong>Primary Instructor:</strong> {{ page.instructor }}</p>
   {% endif %}
-  {% if page.description}
+  {% if page.description %}
     <p> <strong>Course Description:</strong> {{ page.description }}</p>
   {% endif %}
-  {% if page.responsibilities}
+  {% if page.responsibilities %}
     <p> <strong>Course Level:</strong> {{ page.responsibilities }}</p>
   {% endif %}
 
   <h3>Teaching Evaluations</h3>
-  {% if page.overall}
+  {% if page.overall %}
     <p> <strong>Overall Assessment:</strong> {{ page.overall }}/5 </p>
   {% endif %}
-  {% if page.evaluations}
+  {% if page.evaluations %}
     <p>See full text of student evaluations here: <a href="{{ page.evaluations }}" target="_blank">{{ page.evaluations }}</a></p>
   {% endif %}
   
