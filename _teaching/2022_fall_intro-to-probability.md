@@ -25,5 +25,6 @@ description: >
   Probability theory provides tools for describing and analyzing situations with randomness and uncertainty. This course gives an introduction to the mathematics and logic of probability theory (concepts, definitions, theorems, and proofs) and some practice in applying the theory to concrete examples.
 responsibilities: >
   Host office hours (4h per week), grade all assignments and exams, answer student questions.
-overall: 4.6
+overall: >
+  4.6
 ---
