@@ -23,18 +23,18 @@ layout: default
     <p>{{ page.abstract }}</p>
   {% endif %}
 
-  {% elsif page.paperurl %}
-<!--     <h3>Available at</h3> -->
-    <p>Available at: <a href="{{ page.paperurl }}" target="_blank">{{ page.paperurl }}</a></p>
+  {% if page.paperurl %}
+  <!--     <h3>Available at</h3> -->
+  <p>Available at: <a href="{{ page.paperurl }}" target="_blank">{{ page.paperurl }}</a></p>
   {% endif %}
 
   {% if page.notes %}
-<!--     <h3>Notes</h3> -->
+    <!--     <h3>Notes</h3> -->
     <p>{{ page.notes }}</p>
   {% endif %}
 
   {% if page.pdf %}
-<!--     <h3>View PDF</h3> -->
+    <!--     <h3>View PDF</h3> -->
     <iframe src="{{ page.pdf | relative_url }}" width="100%" height="1000px" style="border: none;">
       This browser does not support PDFs. Please <a href="{{ page.pdf }}">download the file</a> instead.
     </iframe>
