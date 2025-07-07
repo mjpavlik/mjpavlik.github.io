@@ -1,5 +1,5 @@
 ---
-title: "Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19"
+title: "Opportunistic Repression: Patterns of Civilian Targeting by the State in Response to COVID-19"
 layout: publication
 collection: publications
 permalink: /2021_opportunistic-repression
