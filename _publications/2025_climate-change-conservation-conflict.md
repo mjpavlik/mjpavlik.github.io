@@ -1,11 +1,11 @@
 ---
 title: >
-  Climate change, conflict, and property rights: Evidence from Nigeria.
+  Climate change, conflict, and property rights: Evidence from Nigeria
 layout: publication
 collection: publications
 permalink: /2025_climate-change-conservation-conflict
 date: 2025-06-01
-venue: 'Under review at Journal of Politics (JOP)'
+venue: 'Under review at <b>Journal of Politics (JOP)</b>'
 citation: >
   Grasse, Don and Melissa Pavlik. 2025. "Climate change, conservation, and conflict: Evidence from Nigeria." <i>Working Paper</i>.
 pdf: files/2025_climate-change-conservation-conflict.pdf
