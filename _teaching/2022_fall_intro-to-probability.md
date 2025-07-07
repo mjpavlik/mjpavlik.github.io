@@ -1,5 +1,5 @@
 ---
-course: "An Introduction to Probability Theory"
+title: "An Introduction to Probability Theory"
 number: S&DS 240/340
 layout: teaching
 collection: teaching
