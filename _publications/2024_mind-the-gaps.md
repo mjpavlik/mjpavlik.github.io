@@ -11,5 +11,5 @@ citation:  >
   Bush, Sarah Sunn, Jennifer Hadden, and Melissa Pavlik. 2024. "Mind the Gaps: Unseen Organizations in Global Governance." Under review at <i>International Organization.</i>
 pdf: files/2024_mind-the-gaps.pdf
 notes: >
-  Presented at <i>Political Economy of International Organizations (PEIO)</i> annual meeting (2024), <i>Virtual International Political Economy Seminar (VIPES)</i> conference (2024), and the <i>American Political Science Association (APSA)</i> annual meeting (2024).
+  Presented at <i>Political Economy of International Organizations (PEIO)</i> annual meeting, 2024; <i>Virtual International Political Economy Seminar (VIPES)</i>, 2024;, and the <i>American Political Science Association (APSA)</i> annual meeting, 2024.
 ---
