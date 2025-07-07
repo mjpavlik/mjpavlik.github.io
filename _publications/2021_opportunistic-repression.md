@@ -7,5 +7,6 @@ Across the globe, states have attempted to contain COVID-19 by restricting movem
 date: 2021-10-25
 venue: 'International Security'
 paperurl: https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the
-citation:  > Grasse, Don, Melissa Pavlik, Hilary Matfess, and Travis B. Curtice. (2021). &quot;Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.&quot; <i>International Security</i>. 46(2): 130-165. DOI: https://doi.org/10.1162/isec_a_00419
+citation:  > 
+Grasse, Don, Melissa Pavlik, Hilary Matfess, and Travis B. Curtice. (2021). &quot;Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.&quot; <i>International Security</i>. 46(2): 130-165. DOI: https://doi.org/10.1162/isec_a_00419
 ---
