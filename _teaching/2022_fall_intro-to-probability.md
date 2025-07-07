@@ -4,7 +4,7 @@ number: S&DS 240/340
 layout: teaching
 collection: teaching
 date: 2022-09-01
-permalink: /_teaching/2022_fall_intro-to-probability
+permalink: /2022_fall_intro-to-probability
 university: Yale University
 department: Statistics & Data Science
 semester: "Fall"
