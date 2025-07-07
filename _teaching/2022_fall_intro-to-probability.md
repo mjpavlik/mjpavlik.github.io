@@ -2,7 +2,7 @@
 title: >
   An Introduction to Probability Theory
 number: >
-  S&DS 240/340
+  S&DS 240/540
 layout: teaching
 collection: teaching
 date: 2022-09-01
