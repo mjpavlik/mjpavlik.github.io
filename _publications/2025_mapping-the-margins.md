@@ -8,7 +8,7 @@ date: 2025-07-01
 venue: Working paper
 citation:  > 
   Pavlik, Melissa. 2025. "Mapping the Margins: Geospatial tools for measuring informal and illicit economies." <i>Working paper</i>.
-pdf: files/2025_mapping-the-margins_SLIDES
+pdf: files/2025_mapping-the-margins_SLIDES.pdf
 notes: >
   Presented at <i>European Political Science Association (EPSA)</i>, 2025. Draft available upon request. 
 ---
