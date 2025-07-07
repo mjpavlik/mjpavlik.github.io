@@ -13,14 +13,14 @@ layout: default
     {% endif %}
   </header>
 
-  {% if page.citation %}
-<!--     <h3>Recommended Citation</h3> -->
-    <p>{{ page.citation }}</p>
-  {% endif %}
-
   {% if page.abstract %}
     <h3>Abstract</h3>
     <p>{{ page.abstract }}</p>
+  {% endif %}
+
+    {% if page.citation %}
+    <h3>Recommended Citation</h3>
+    <p>{{ page.citation }}</p>
   {% endif %}
 
   {% if page.paperurl %}
@@ -29,7 +29,7 @@ layout: default
   {% endif %}
 
   {% if page.notes %}
-    <!--     <h3>Notes</h3> -->
+        <h3>Notes</h3>
     <p>{{ page.notes }}</p>
   {% endif %}
 
