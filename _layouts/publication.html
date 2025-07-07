@@ -9,14 +9,9 @@ layout: default
       <p><strong>Author:</strong> {{ page.author }}</p>
     {% endif %}
     {% if page.venue %}
-      <p><strong>{{ page.venue }}</strong>, {{ page.date | date: "%Y" }}</p>
+      <p><em>{{ page.venue }}</em>, {{ page.date | date: "%Y" }}</p>
     {% endif %}
   </header>
-
-  {% if page.citation %}
-    <h3>Recommended Citation</h3>
-    <p>{{ page.citation }}</p>
-  {% endif %}
 
   {% if page.abstract %}
     <h3>Abstract</h3>
@@ -33,6 +28,12 @@ layout: default
     <iframe src="{{ page.pdf | relative_url }}" width="100%" height="1000px" style="border: none;">
       This browser does not support PDFs. Please <a href="{{ page.pdf }}">download the file</a> instead.
     </iframe>
+
+  {% if page.citation %}
+    <h3>Recommended Citation</h3>
+    <p>{{ page.citation }}</p>
+  {% endif %}
+  
   {% elsif page.paperurl %}
     <h3>Link to Paper</h3>
     <p><a href="{{ page.paperurl }}" target="_blank">{{ page.paperurl }}</a></p>
