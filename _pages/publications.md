@@ -4,7 +4,7 @@ title: "Selected Research"
 permalink: /publications/
 author_profile: true
 ---
-
+Mel's research focuses on themes of repression, resistance, and 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
