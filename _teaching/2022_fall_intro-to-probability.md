@@ -7,7 +7,7 @@ date: 2022-09-01
 permalink: /_teaching/2022_fall_intro-to-probability
 university: Yale University
 department: Statistics & Data Science
-semester: "Fall 2022"
+semester: "Fall"
 location: "New Haven, Connecticut"
 role: "Graduate Teaching Fellow"
 level: "Undergraduate & Graduate"
@@ -17,6 +17,4 @@ description: >
 responsibilities: >
   Host office hours (4h per week), grade all assignments and exams, answer student questions.
 overall: 4.6
-evaluations:
-syllabus: 
 ---
