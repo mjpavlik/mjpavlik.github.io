@@ -1,6 +1,8 @@
 ---
 title: >
   Climate change, conflict, and property rights: Evidence from Nigeria.
+layout: publication
+collection: publications
 permalink: /2025_climate-change-conservation-conflict
 date: 2025-06-01
 venue: 'Under review at Journal of Politics (JOP)'
