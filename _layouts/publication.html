@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<article class="page">
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.author %}
+      <p><strong>Author:</strong> {{ page.author }}</p>
+    {% endif %}
+    {% if page.venue %}
+      <p><strong>{{ page.venue }}</strong>, {{ page.date | date: "%Y" }}</p>
+    {% endif %}
+  </header>
+
+  {% if page.citation %}
+    <h3>Recommended Citation</h3>
+    <p>{{ page.citation }}</p>
+  {% endif %}
+
+  {% if page.abstract %}
+    <h3>Abstract</h3>
+    <p>{{ page.abstract }}</p>
+  {% endif %}
+
+  {% if page.notes %}
+    <h3>Notes</h3>
+    <p>{{ page.notes }}</p>
+  {% endif %}
+
+  {% if page.pdf %}
+    <h3>View PDF</h3>
+    <iframe src="{{ page.pdf | relative_url }}" width="100%" height="1000px" style="border: none;">
+      This browser does not support PDFs. Please <a href="{{ page.pdf }}">download the file</a> instead.
+    </iframe>
+  {% elsif page.paperurl %}
+    <h3>Link to Paper</h3>
+    <p><a href="{{ page.paperurl }}" target="_blank">{{ page.paperurl }}</a></p>
+  {% endif %}
+</article>
