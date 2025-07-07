@@ -13,7 +13,7 @@ layout: default
     {% endif %}
   </header>
 
-    {% if page.citation %}
+  {% if page.citation %}
 <!--     <h3>Recommended Citation</h3> -->
     <p>{{ page.citation }}</p>
   {% endif %}
@@ -23,11 +23,10 @@ layout: default
     <p>{{ page.abstract }}</p>
   {% endif %}
 
-    {% elsif page.paperurl %}
+  {% elsif page.paperurl %}
 <!--     <h3>Available at</h3> -->
     <p>Available at: <a href="{{ page.paperurl }}" target="_blank">{{ page.paperurl }}</a></p>
   {% endif %}
-</article>
 
   {% if page.notes %}
 <!--     <h3>Notes</h3> -->
@@ -39,4 +38,6 @@ layout: default
     <iframe src="{{ page.pdf | relative_url }}" width="100%" height="1000px" style="border: none;">
       This browser does not support PDFs. Please <a href="{{ page.pdf }}">download the file</a> instead.
     </iframe>
+  {% endif %}
+</article>
 
