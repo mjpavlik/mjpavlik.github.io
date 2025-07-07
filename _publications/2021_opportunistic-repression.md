@@ -10,4 +10,6 @@ venue: 'International Security'
 citation:  > 
   Grasse, Don, Melissa Pavlik, Hilary Matfess, and Travis B. Curtice. (2021)."Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19." <i>International Security</i>. 46(2): 130-165. DOI: <a href="https://doi.org/10.1162/isec_a_00419" target="_blank">10.1162/isec_a_00419</a>
 pdf: files/grasse_ea_2021.pdf
+notes: >
+  Presented at Political Violence and its Legacies (PVL) Workshop at Yale University, Fall 2020.
 ---
