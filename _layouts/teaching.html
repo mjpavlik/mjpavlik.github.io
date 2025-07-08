@@ -7,15 +7,15 @@ layout: default
     <h1>{{ page.title }} ({{ page.number }})</h1>
      {% if page.university %}
       <p>
-        <em>{{ page.department | strip}}, {{ page.university }}</em> <br>
-        {{ page.role | strip }}, {{ page.semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }}
+        <em>{{ page.department | strip}} at {{ page.university |strip }}, {{ page.semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</em>
       </p>
     {% endif %}
   </header>
   
   <h2>Course Details</h2>
   {% if page.level %}
-    <p> <strong>Course Level</strong> {{ page.level }} <br>
+    <p> <strong>Role</strong> {{ page.role | strip }} <br>
+        <strong>Course Level</strong> {{ page.level }} <br>
         <strong>Primary Instructor</strong> {{ page.instructor }} <br>
         <strong>Course Description</strong> {{ page.description }}<br>
         <strong>Course Responsibilities</strong> {{ page.responsibilities }}</p>
@@ -23,10 +23,8 @@ layout: default
 
   <h2>Teaching Evaluations</h2>
   {% if page.overall %}
-    <p> <strong>Overall Assessment</strong> {{ page.overall }}/5 </p>
-  {% endif %}
+    <p> <strong>Overall Assessment</strong> {{ page.overall }}/5 <br>
   {% if page.evaluations %}
-    <p>
       See <a href="{{ page.evaluations }}" target="_blank">full text of student evaluations</a>
       {% if page.pgnum %}(TA evaluations start pg. {{ page.pgnum }}){% endif %}
     </p>
