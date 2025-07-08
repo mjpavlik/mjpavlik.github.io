@@ -7,8 +7,8 @@ layout: default
     <h1>{{ page.title }} ({{ page.number }})</h1>
      {% if page.university %}
       <p>
-        <em>{{ page.department }}, {{ page.university }}</em> <br>
-        {{ page.role }}, {{ page.semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }}
+        <em>{{ page.department | strip}}, {{ page.university }}</em> <br>
+        {{ page.role | strip }}, {{ page.semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }}
       </p>
     {% endif %}
   </header>
