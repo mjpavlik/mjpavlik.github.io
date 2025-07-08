@@ -18,7 +18,7 @@ location: >
 role: >
   Graduate Teaching Fellow
 level: >
-  Undergraduate & Graduate
+  Undergraduate & graduate
 instructor: >
   Professor Robert Wooster
 description: >
