@@ -4,22 +4,13 @@ layout: default
 
 <article class="page">
   <header class="page-header">
-    <h1>{{ page.title }} ({{ page.number }})</h1>
+    <h1>{{ page.title }}</h1>
      {% if page.university %}
       <p>
-        <em>{{ page.department | strip}} at {{ page.university |strip }}, {{ page.semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</em>
+        <em>{{ page.university | strip }}, {{ page.semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</em>
       </p>
     {% endif %}
   </header>
-  
-  <h2>Course Details</h2>
-  {% if page.level %}
-    <p> <strong>Role</strong> {{ page.role | strip }} <br>
-        <strong>Course Level</strong> {{ page.level }} <br>
-        <strong>Primary Instructor</strong> {{ page.instructor }} <br>
-        <strong>Course Description</strong> {{ page.description }}<br>
-        <strong>Course Responsibilities</strong> {{ page.responsibilities }}</p>
-  {% endif %}
 
   <h2>Teaching Evaluations</h2>
   {% if page.overall %}
@@ -33,6 +24,19 @@ layout: default
   {% endif %}
   {% endif %}
     </p>
+  
+  <h2>Course Details</h2>
+  {% if page.level %}
+    <p> <strong>Department(s)</strong> {{ page.department }} <br>
+        <strong>Course Number</strong> {{ page.number }} <br>
+        <strong>Role</strong> {{ page.role | strip }} <br>
+        <strong>Level</strong> {{ page.level }} <br>
+        <strong>Primary Instructor</strong> {{ page.instructor }} </p>
+  
+    <p> <strong>Course Description</strong> {{ page.description }}</p>
+  
+    <p> <strong>Course Responsibilities</strong> {{ page.responsibilities }}</p>
+  {% endif %}
 
   <h2>Syllabus</h2>
 
