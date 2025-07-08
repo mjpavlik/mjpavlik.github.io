@@ -17,7 +17,7 @@ location: >
 role: >
   Writing Requirement Graduate Teaching Fellow
 level: >
-  Undergraduate (Writing Requirement)
+  Undergraduate (with Writing Requirement)
 instructor: >
   Professor Elisabeth Wood
 description: >
