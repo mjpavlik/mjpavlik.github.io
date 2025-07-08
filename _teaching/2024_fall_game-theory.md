@@ -9,7 +9,7 @@ permalink: /2024_fall_game-theory
 university: >
   Yale University
 department: >
-  Political Science
+  Political Science, Ethics Politics & Economics
 semester: >
   Fall
 location: >
