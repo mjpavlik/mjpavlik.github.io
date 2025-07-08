@@ -9,7 +9,7 @@ permalink: /2023_spring_african-politics
 university: >
   Yale University
 department: >
-  Political Science/African Studies
+  Political Science, African Studies
 semester: >
   Spring
 location: >
