@@ -27,4 +27,5 @@ responsibilities: >
   Host office hours (4h per week), grade all assignments and exams, answer student questions.
 overall: >
   4.6
+evaluations: files/11224_Fall_2022_S&DS_240_01S&DS_540_01-Probability_Theory.pdf
 ---
