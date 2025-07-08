@@ -24,6 +24,7 @@ layout: default
   <h2>Teaching Evaluations</h2>
   {% if page.overall %}
     <p> <strong>Overall Assessment</strong> {{ page.overall }}/5 <br>
+  {% endif %}
   {% if page.evaluations %}
       See <a href="{{ page.evaluations }}" target="_blank">full text of student evaluations</a>
       {% if page.pgnum %}(TA evaluations start pg. {{ page.pgnum }}){% endif %}
