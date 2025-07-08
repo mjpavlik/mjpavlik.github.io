@@ -7,8 +7,8 @@ layout: default
     <h1>{{ page.title }} ({{ page.number }})</h1>
      {% if page.university %}
       <p>
-        {{ page.role }} in <strong>{{ page.semester }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</strong>
-        <emph>{{ page.department }}, {{ page.university }}</emph>
+        <em>{{ page.department }}, {{ page.university }}</em>
+        {{ page.role }}, {{ page.semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }}
       </p>
     {% endif %}
   </header>
@@ -32,7 +32,10 @@ layout: default
     <p> <strong>Overall Assessment:</strong> {{ page.overall }}/5 </p>
   {% endif %}
   {% if page.evaluations %}
-    <p>See full text of student evaluations here: <a href="{{ page.evaluations }}" target="_blank">{{ page.evaluations }}</a></p>
+    <p>
+      See <a href="{{ page.evaluations }}" target="_blank">full text of student evaluations</a>
+      {% if page.pgnum %}(TA evaluations start pg. {{ page.pgnum }}){% endif %}
+    </p>
   {% endif %}
   
   <h2>Syllabus</h2>
