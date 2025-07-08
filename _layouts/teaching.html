@@ -28,9 +28,12 @@ layout: default
   {% if page.evaluations %}
       See <a href="{{ page.evaluations }}" target="_blank">full text of student evaluations</a>
       {% if page.pgnum %}(TA evaluations start pg. {{ page.pgnum }}){% endif %}
-    </p>
+  {% else %}
+  Forthcoming.
   {% endif %}
-  
+  {% endif %}
+    </p>
+
   <h2>Syllabus</h2>
 
   {% if page.syllabus %}
