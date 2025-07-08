@@ -12,7 +12,7 @@ layout: default
     {% endif %}
   </header>
 
-  <p> <strong>Course Description</strong> {{ page.description }}</p>
+  <p>{{ page.description }}</p>
 
   <h2>Teaching Evaluations</h2>
   {% if page.overall %}
@@ -32,7 +32,7 @@ layout: default
         <strong>Course Number:</strong> {{ page.number }} <br>
         <strong>Role:</strong> {{ page.role | strip }} <br>
         <strong>Level:</strong> {{ page.level }} <br>
-        <strong>Primary Instructor:</strong> {{ page.instructor }}  
+        <strong>Primary Instructor:</strong> {{ page.instructor }} <br>
         <strong>Responsibilities</strong> {{ page.responsibilities }}</p>
   {% endif %}
 
