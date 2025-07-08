@@ -17,7 +17,7 @@ location: >
 role: >
   Graduate Teaching Fellow
 level: >
-  Upper-level Undergraduate
+  Upper-level undergraduate
 instructor: >
   Professor Katharine Baldwin
 description: >
