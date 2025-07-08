@@ -14,7 +14,7 @@ layout: default
 
   <h2>Teaching Evaluations</h2>
   {% if page.overall %}
-    <p> Overall assessment {{ page.overall }}/5.
+    <p> Overall assessment {{ page.overall | strip }}/5.
   {% endif %}
   {% if page.evaluations %}
       See <a href="{{ page.evaluations }}" target="_blank">full text of student evaluations</a>
@@ -22,16 +22,15 @@ layout: default
   {% else %}
   Forthcoming.
   {% endif %}
-  {% endif %}
     </p>
   
   <h2>Course Details</h2>
   {% if page.level %}
-    <p> <strong>Department(s)</strong> {{ page.department }} <br>
-        <strong>Course Number</strong> {{ page.number }} <br>
-        <strong>Role</strong> {{ page.role | strip }} <br>
-        <strong>Level</strong> {{ page.level }} <br>
-        <strong>Primary Instructor</strong> {{ page.instructor }} </p>
+    <p> <strong>Department(s):</strong> {{ page.department }} <br>
+        <strong>Course Number:</strong> {{ page.number }} <br>
+        <strong>Role:</strong> {{ page.role | strip }} <br>
+        <strong>Level:</strong> {{ page.level }} <br>
+        <strong>Primary Instructor:</strong> {{ page.instructor }} </p>
   
     <p> <strong>Course Description</strong> {{ page.description }}</p>
   
