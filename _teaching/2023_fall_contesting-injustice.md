@@ -9,7 +9,7 @@ permalink: /2023_fall_contesting-injustice
 university: >
   Yale University
 department: >
-  Political Science
+  Political Science, Latin American Studies, African American Studies, Sociology
 semester: >
   Fall
 location: >
