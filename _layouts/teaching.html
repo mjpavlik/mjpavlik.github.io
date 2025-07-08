@@ -12,6 +12,8 @@ layout: default
     {% endif %}
   </header>
 
+  <p> <strong>Course Description</strong> {{ page.description }}</p>
+
   <h2>Teaching Evaluations</h2>
   {% if page.overall %}
     <p> Overall assessment <strong>{{ page.overall | strip }}/5</strong>.
@@ -30,11 +32,8 @@ layout: default
         <strong>Course Number:</strong> {{ page.number }} <br>
         <strong>Role:</strong> {{ page.role | strip }} <br>
         <strong>Level:</strong> {{ page.level }} <br>
-        <strong>Primary Instructor:</strong> {{ page.instructor }} </p>
-  
-    <p> <strong>Course Description</strong> {{ page.description }}</p>
-  
-    <p> <strong>Course Responsibilities</strong> {{ page.responsibilities }}</p>
+        <strong>Primary Instructor:</strong> {{ page.instructor }}  
+        <strong>Responsibilities</strong> {{ page.responsibilities }}</p>
   {% endif %}
 
   <h2>Syllabus</h2>
