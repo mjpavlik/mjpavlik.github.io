@@ -15,21 +15,15 @@ layout: default
   
   <h2>Course Details</h2>
   {% if page.level %}
-    <p> <strong>Course Level:</strong> {{ page.level }}</p>
-  {% endif %}
-  {% if page.instructor %}
-    <p> <strong>Primary Instructor:</strong> {{ page.instructor }}</p>
-  {% endif %}
-  {% if page.description %}
-    <p> <strong>Course Description:</strong> {{ page.description }}</p>
-  {% endif %}
-  {% if page.responsibilities %}
-    <p> <strong>Course Responsibilities:</strong> {{ page.responsibilities }}</p>
+    <p> <strong>Course Level</strong> {{ page.level }} <br>
+        <strong>Primary Instructor</strong> {{ page.instructor }} <br>
+        <strong>Course Description</strong> {{ page.description }}<br>
+        <strong>Course Responsibilities</strong> {{ page.responsibilities }}</p>
   {% endif %}
 
   <h2>Teaching Evaluations</h2>
   {% if page.overall %}
-    <p> <strong>Overall Assessment:</strong> {{ page.overall }}/5 </p>
+    <p> <strong>Overall Assessment</strong> {{ page.overall }}/5 </p>
   {% endif %}
   {% if page.evaluations %}
     <p>
