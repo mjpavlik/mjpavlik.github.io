@@ -1,5 +1,5 @@
 ---
-title: "Mapping the Margins: Geospatial tools for measuring informal and illicit economies"
+title: "Mapping the Margins: Geospatial Tools for Measuring Informal and Illicit Economies"
 layout: publication
 collection: publications
 abstract: > 
