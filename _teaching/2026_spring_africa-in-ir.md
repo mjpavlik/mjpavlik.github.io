@@ -7,7 +7,7 @@ collection: teaching
 date: 2025-08-01
 permalink: /2026_africa-in-ir
 university: >
-  Wesleyan College
+  Wesleyan University
 department: >
   Political Science
 semester: >
