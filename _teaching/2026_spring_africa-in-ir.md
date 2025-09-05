@@ -11,9 +11,9 @@ university: >
 department: >
   Political Science
 semester: >
-  (Expected) Spring
+  (Scheduled) Spring
 location: >
-  Middlebury, Connecticut
+  Middletown, Connecticut
 role: >
   Professor
 level: >
