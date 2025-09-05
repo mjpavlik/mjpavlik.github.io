@@ -11,7 +11,7 @@ university: >
 department: >
   Political Science, Ethics Politics & Economics
 semester: >
-  (Expected) Fall
+  Fall
 location: >
   New Haven, Connecticut
 role: >
