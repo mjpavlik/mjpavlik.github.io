@@ -15,7 +15,7 @@ semester: >
 location: >
   Middletown, Connecticut
 role: >
-  Professor
+  Instructor of Record
 level: >
   Undergraduate
 instructor: >
