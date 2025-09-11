@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/melissa-pavlik/"
+  linkedin         : "melissa-pavlik"
   orcid            : "http://orcid.org/0000-0001-5023-2182"
   pinterest        :
   soundcloud       :
@@ -309,4 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
