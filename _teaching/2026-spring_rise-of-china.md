@@ -23,4 +23,7 @@ instructor: >
 description: > China's rise on the world stage is the most important geopolitical event of this century. What implications does China's increasing global power have for the rest of the world? How did a relatively poor nation become a prosperous and stable one? Will the Chinese political system remain stable? This course seeks to answer these questions and serves as a broad introduction to Chinese politics. We will examine topics including elite politics, censorship, protest, technology, trade, military, diplomacy, and foreign policy. To understand the course of China's economic and political rise, we begin with a chronological overview of China from the late Imperial era until the present day. Next, we consider the puzzle of how the country's authoritarian system has remained resilient. Finally, we will examine the consequences of China’s rise for the rest of the world. No knowledge of China or Chinese is assumed.
 responsibilities: >
   Teach sections (2 per week) and host office hours, grade all assignments and exams, answer student questions. Organize fellow TFs (8 of us) as Head TF.
+evaluations: files//24100_Spring_2026_EAST_2520_01GLBL_2309_01PLSC_2466_01-The_Rise_of_China.pdf
+#page=18
+pgnum: 18
 ---
