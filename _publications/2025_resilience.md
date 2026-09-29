@@ -8,6 +8,6 @@ abstract: >
 date: 2025-12-10
 venue: <b>Environment and Security</b>
 citation:  > 
-  Starc Card, K., Muhire, B., Wilson, J., Akawu, C. B., Bukar, B., Rincon, S., Meaux, A., Ahmadu, Z., Pavlik, M., Fodde, B., Ayuba, H., Smith, C., & Almassri, A. N.-N. 2025. "Not a voluntary, sustainable, or scalable outcome: Resilience in urban settings of fragility in sub-Saharan Africa." Environment and Security, 4(3), 270-290. https://doi.org/10.1177/27538796251395446
+  Starc Card, K., Muhire, B., Wilson, J., Akawu, C. B., Bukar, B., Rincon, S., Meaux, A., Ahmadu, Z., Pavlik, M., Fodde, B., Ayuba, H., Smith, C., & Almassri, A. N.-N. 2025. "Not a voluntary, sustainable, or scalable outcome: Resilience in urban settings of fragility in sub-Saharan Africa." Environment and Security, 4(3), 270-290. DOI: <a href="https://doi.org10.1177/27538796251395446" target="_blank">10.1177/27538796251395446</a>
 pdf: files/2025_resilience.pdf
 ---
