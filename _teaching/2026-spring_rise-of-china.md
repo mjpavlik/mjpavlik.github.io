@@ -4,7 +4,7 @@ number: >
   PLSC 357/EAST 310/GLBL 309
 layout: teaching
 collection: teaching
-date: 2026-01-01
+date: 2026-02-01
 permalink: /2026_spring_rise-of-china
 university: >
   Yale University
