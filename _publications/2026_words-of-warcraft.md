@@ -3,7 +3,7 @@ title: >
   Words of Warcraft: Experimental Evidence on Norm Subversion Following Russia's Invasion of Ukraine
 collection: publications
 layout: publication
-permalink: /2025_words-of-warcraft
+permalink: /2026_words-of-warcraft
 date: 2026-07-01
 venue: 'Working Paper'
 citation: >
