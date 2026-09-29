@@ -3,8 +3,8 @@ title: >
   Climate change, Conservation, and Conflict: Evidence from Nigeria
 layout: publication
 collection: publications
-permalink: /2025_climate-change-conservation-conflict
-date: 2025-06-01
+permalink: /2026_climate-change-conservation-conflict
+date: 2026-06-01
 venue: 'Under review'
 citation: >
   Grasse, Don and Melissa Pavlik. 2025. "Climate change, Conservation, and Conflict: Evidence from Nigeria." <i>Working Paper</i>.
