@@ -4,10 +4,10 @@ title: >
 collection: publications
 layout: publication
 permalink: /2025_words-of-warcraft
-date: 2025-07-01
+date: 2026-07-01
 venue: 'Working Paper'
 citation: >
-  Pavlik, Melissa and Ryan Pike. 2025. "Words of Warcraft: Experimental Evidence on Norm Subversion Following Russia's Invasion of Ukraine." <i>Working Paper</i>.
+  Pavlik, Melissa and Ryan Pike. 2026. "Words of Warcraft: Experimental Evidence on Norm Subversion Following Russia's Invasion of Ukraine." <i>Working Paper</i>.
 notes: >
   Presented at <i>Midwestern Political Science Association (MPSA)</i>, 2023; <i>American Political Science Association (APSA)</i>, 2024; and <i>European Political Science Association (EPSA)</i>, 2024 and 2025. This work was supported by the Nuclear Security Program at Yale University's MacMillian Center for International and Area Studies (2024), and the Multidisciplinary Experimental Research Grant from Yale University's Institute for Social and Policy Studies (2024). <b>Draft available upon request.</b>
 abstract: >
