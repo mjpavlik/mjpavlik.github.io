@@ -21,7 +21,8 @@ level: >
 instructor: >
   Melissa Pavlik
 description: >
-  This course contextualizes the African continent in International Relations, and provides an overview of the many ways (especially sub-Saharan) African states engage with foreign countries, with international institutions, and with each other, from colonial times to the present. Topics include colonialism, trade, aid and structural adjustment programs, sovereign debt, international and regional organizations and blocs, security arrangements, and African states' roles in ongoing international climate governance. Syllabus available upon request.
+  This course contextualizes the African continent in International Relations, and provides an overview of the many ways (especially sub-Saharan) African states engage with foreign countries, with international institutions, and with each other, from colonial times to the present. Topics include colonialism, trade, aid and structural adjustment programs, sovereign debt, international and regional organizations and blocs, security arrangements, and African states' roles in ongoing international climate governance. 
 responsibilities: >
-  All aspects of course design, implementation, grading.
+  All aspects of course design, implementation, and grading.
+
 ---
