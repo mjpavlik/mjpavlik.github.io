@@ -4,7 +4,7 @@ title: >
 collection: publications
 layout: publication
 permalink: /2026_words-of-warcraft
-date: 2026-07-01
+date: 2026-05-01
 venue: 'Working Paper'
 citation: >
   Pavlik, Melissa and Ryan Pike. 2026. "Words of Warcraft: Experimental Evidence on Norm Subversion Following Russia's Invasion of Ukraine." <i>Working Paper</i>.
