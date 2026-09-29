@@ -5,7 +5,7 @@ layout: publication
 collection: publications
 permalink: /2025_climate-change-conservation-conflict
 date: 2025-06-01
-venue: 'Under review at the <b>British Journal of Political Science (BJPS)</b>'
+venue: 'Under review'
 citation: >
   Grasse, Don and Melissa Pavlik. 2025. "Climate change, Conservation, and Conflict: Evidence from Nigeria." <i>Working Paper</i>.
 pdf: files/2025_climate-change-conservation-conflict.pdf
