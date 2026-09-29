@@ -10,5 +10,5 @@ citation:  >
   Pavlik, Melissa. 2025. "Mapping the Margins: Geospatial Tools for the Measurement of informal Economies." <i>Working Paper</i>.
 # pdf: files/2025_mapping-the-margins_SLIDES.pdf
 notes: >
-  Presented at <i>European Political Science Association (EPSA)</i>, 2025.
+  Presented at <i>European Political Science Association (EPSA)</i>, 2025; American Political Science Asssociation (APSA), 2025.
 ---
